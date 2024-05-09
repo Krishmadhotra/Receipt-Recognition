@@ -1,2 +1,2 @@
 # Receipt-Recognition
-checking the receipt acuracy
+checking the receipt accuracy
