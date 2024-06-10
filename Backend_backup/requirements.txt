@@ -1,0 +1,7 @@
+beautifulsoup4
+pillow
+pytesseract
+datasketch
+flask
+pdf2image
+flask-cors
